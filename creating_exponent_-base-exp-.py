@@ -11,3 +11,4 @@ def exponent(base, exp):
     print(base, "raises to the power of", exp, "is: ", result)
     
 #checking if the function is working
+exponent(3, 6)
