@@ -7,5 +7,7 @@ def exponent(base, exp):
     while number > 0:
         result = result * base
         number = number - 1
-#print result for the exponent
+    #print result for the exponent
+    print(base, "raises to the power of", exp, "is: ", result)
+    
 #checking if the function is working
